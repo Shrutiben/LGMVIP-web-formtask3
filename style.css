@@ -1,0 +1,65 @@
+body
+{
+    background-color: aqua;
+    color: black;
+}
+table
+{
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-top: 70px;
+    text-align: center;
+    font-size: medium;
+}
+
+#show th, #show td{
+padding: 15px;
+border-radius: 10px;
+border: 1px;
+height: 40px;
+width: 100px;
+}
+
+#btn td input{
+    border-radius: 10px;
+    background-color: green;
+    border: 1px solid black;
+    color: white;
+    text-align:center;
+    height: 30px;
+    width: 90px;
+    padding: 10px;
+}
+
+#me{
+    border-radius: 10px;
+    margin-top: 20px;
+    border: 1px solid black;
+    width: 450px;
+    height: 400px;
+}
+
+input[type=text]
+{
+	width: 300px;
+	height:30px;
+    border: 1px solid black ;
+	border-radius:10px;
+}
+
+input[type=email]
+{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 300px;
+    height: 30px;
+}
+input[type=skill]
+{
+    border: 1px solid black;
+    border-radius: 10px;
+    width:300px;
+    height: 30px;
+}
